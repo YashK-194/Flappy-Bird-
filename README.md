@@ -34,4 +34,7 @@ After the game ends, pressing the space bar again should restart the game with a
 ### Additional Notes
 
 * This is a basic implementation. You can extend it by adding features like sound effects, animations, and difficulty levels.
-* Consider including comments in your code to explain the logic and functionality. 
+* Consider including comments in your code to explain the logic and functionality.
+
+### Screenshot
+[screenshot](file:///home/yashk194/Pictures/Screenshots/Screenshot%20from%202024-05-16%2000-13-41.png)
